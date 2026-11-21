@@ -1,0 +1,14 @@
+# Personal files: kept out of the public repo (the live site still gets them via `vercel` from this folder)
+kenny_adu_antwi_resume.pdf
+*.pdf
+_source/
+assets/img/profile.webp
+assets/img/awards/
+assets/img/art/
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.vercel/
